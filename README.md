@@ -1,7 +1,11 @@
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <h1 align="center">Hi 👋, I'm Ashok Molagavalli</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok2424&label=Profile%20views&color=0e75b6&style=flat" alt="ashok2424" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashok2424" alt="ashok2424" /></a> </p>
+- 🔭 I’m currently working on **ReactJs**
+
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **ashokmolagavalli@gmail.com**
 
