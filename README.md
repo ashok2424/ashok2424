@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashok Molagavalli</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok2424&label=Profile%20views&color=0e75b6&style=flat" alt="ashok2424" /> </p>
 
-- 🔭 I’m currently working on **ReactJs**
-
-- 🌱 I’m currently learning **Backend Development**
+- 🔭 I’m currently working as a Backend Engineer 
 
 - 📫 How to reach me **ashokmolagavalli@gmail.com**
 
